@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Act1DDIM</string>
+    <string name="lblABienvenida">P1 COMUNICACION ACTIVITY</string>
+    <string name="btnA1Siguiente">Siguiente activity</string>
+    <string name="txtIA1Nomrbre">Ingresa tu nombre</string>
+    <string name="txtA1Password">Contraseña</string>
+
+    <string name="lblA2Saludo">Pantalla 2</string>
+</resources>
